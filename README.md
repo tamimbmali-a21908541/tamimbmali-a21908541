@@ -1,143 +1,92 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tamim%20Bmali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20ML%20Enthusiast%20|%20Former%20Mathematics%20Teacher&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Tamim%20Bmali&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3ABEF9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=From+Teaching+Equations+%F0%9F%93%90;To+Engineering+Solutions+%F0%9F%92%BB;Building+Secure+%26+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+<h3>Full-Stack Developer | ML Enthusiast | Former Mathematics Teacher</h3>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3ABEF9&center=true&vCenter=true&width=435&lines=Building+Secure+Systems;Machine+Learning+Explorer;From+Teaching+to+Engineering" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamimbmali-a21908541&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tamimbmali-a21908541?style=for-the-badge&color=blue&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/tamimbmali-a21908541?style=for-the-badge&color=yellow&label=Stars" alt="Stars" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tamimbmali-a21908541&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tamimbmali-a21908541?label=Followers&style=flat&color=blue" alt="Followers" />
 </p>
 
 </div>
 
----
+<br/>
+
+## 🌟 Featured Project
 
 <div align="center">
 
-## 🌟 ⭐ **FEATURED PROJECT** ⭐ 🌟
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 📊 **Excel & CSV Analysis Platform**
-#### *Transform Your Data into Insights in One Click*
+### 📊 Excel & CSV Analysis Platform
+**Analyze your data files in one click - Fast, Simple, Powerful**
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019.png" width="70"/><br/>
-<b>📑 Excel Support</b><br/>
-<sub>Upload & Analyze .xlsx Files</sub>
+<h4>📑 Excel Files</h4>
+Upload & analyze .xlsx
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/csv.png" width="70"/><br/>
-<b>📊 CSV Processing</b><br/>
-<sub>Fast Data Analysis</sub>
+<h4>📊 CSV Processing</h4>
+Fast data analysis
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/graph.png" width="70"/><br/>
-<b>⚡ Instant Results</b><br/>
-<sub>One-Click Insights</sub>
+<h4>⚡ Instant Results</h4>
+One-click insights
 </td>
 </tr>
 </table>
-
-<br/>
 
 <a href="https://platform-9bx.pages.dev/?fbclid=PAb21jcANscBRleHRuA2FlbQIxMQABp2WD25645Sm2Xt7WKlf9xnLRVoRxms15DI3EPBCKPOkoLepFHbcnaThHsPQn_aem_WTP5b6NwZzIO3AbsS1emUQ">
-  <img src="https://img.shields.io/badge/🚀_LAUNCH_PLATFORM_NOW-FF6B35?style=for-the-badge&labelColor=1a1a2e&fontSize=20&logoColor=white" alt="Launch Platform" height="50"/>
+  <img src="https://img.shields.io/badge/🚀_LAUNCH_PLATFORM-4285F4?style=for-the-badge&logoColor=white" alt="Launch Platform"/>
 </a>
 
-<br/><br/>
-
-**✨ No Installation Required • Free to Use • Instant Analysis ✨**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+<sub>✨ No Installation Required • Free to Use • Instant Analysis ✨</sub>
 
 </div>
 
+<br/>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+## 👨‍💻 About Me
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="50%">
 
 ```python
-class SoftwareDeveloper:
-    def __init__(self):
-        self.name = "Tamim Bmali"
-        self.role = "Full-Stack Software Engineer"
-        self.previous_career = "Mathematics Teacher"
-        self.languages = ["Arabic", "English", "French"]
-        
-    def current_work(self):
-        return {
-            "focus": ["Django", "Flutter", "REST APIs"],
-            "projects": [
-                "Multilingual Web Systems",
-                "Secure Mobile Applications",
-                "Data Analysis Platforms"
-            ]
-        }
-    
-    def future_goals(self):
-        return [
-            "🤖 Master Machine Learning",
-            "🌐 Build Distributed Systems", 
-            "🌍 Contribute to Open Source",
-            "📊 Advanced Data Engineering"
-        ]
-    
-    def fun_fact(self):
-        return "I taught mathematics before becoming a software engineer! 📐➡️💻"
+developer = {
+    "name": "Tamim Bmali",
+    "role": "Full-Stack Engineer",
+    "background": "Mathematics Teacher",
+    "current_focus": [
+        "Django", 
+        "Flutter", 
+        "REST APIs"
+    ],
+    "learning": [
+        "Machine Learning",
+        "Distributed Systems"
+    ]
+}
 ```
 
-<br clear="right"/>
-
-<br/>
-
-### 🎯 **Quick Overview**
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 🔭 **Current Focus**
-- 🌐 Building secure multilingual web systems
-- 📱 Developing cross-platform mobile apps
-- 🔐 Implementing REST API security
-- 🏗️ Architecting scalable backends
-- 📊 Creating data analysis tools
-
-#### 🌱 **Learning Journey**
-- 🤖 Machine Learning & Deep Learning
-- 🌐 Distributed Systems & Microservices
-- ☁️ Cloud Architecture & DevOps
-- 📊 Big Data & Performance Optimization
-
 </td>
-<td valign="top" width="50%">
+<td width="50%">
 
-#### 👯 **Open to Collaborate On**
-- 📚 Educational Technology Platforms
-- 📊 Data Analysis & Visualization Tools  
-- 🏥 Healthcare & Medical Solutions
-- 🌍 Open Source Community Projects
-- 🔬 Research & Innovation
+### 🎯 Quick Facts
 
-#### 💬 **Ask Me About**
-- 🏛️ Django Architecture & Best Practices
-- 🔒 API Security & Authentication
-- 🔄 Full-Stack Development Strategies
-- 📐 Software Design Patterns
-- 🎓 Teaching & Mentorship
+- 🔭 Building secure multilingual systems
+- 📱 Developing mobile & web applications
+- 🌱 Learning ML and distributed systems
+- 👯 Open to collaborate on education tech
+- 💬 Ask me about Django & API security
+- ⚡ Former mathematics teacher
 
 </td>
 </tr>
@@ -147,186 +96,105 @@ class SoftwareDeveloper:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+## 🛠️ Tech Stack
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Stack**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<div align="center">
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 💻 **Programming Languages**
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,cs,dart,r,js,typescript&theme=dark&perline=10" />
-</p>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 **Frameworks & Libraries**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flutter,react,nodejs,dotnet,express,flask,fastapi&theme=dark&perline=8" />
-</p>
-
-### 🗄️ **Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis,firebase&theme=dark&perline=6" />
-</p>
-
-### 📊 **Data Science & Analytics**
-
+### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ **Cloud & DevOps**
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,docker,kubernetes,git,github,gitlab&theme=dark&perline=9" />
-</p>
+---
 
-### 🛠️ **Development Tools**
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash,vim,androidstudio,xcode&theme=dark&perline=8" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamimbmali-a21908541&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-## 📊 **GitHub Analytics**
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimbmali-a21908541&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&layout=compact&langs_count=8&card_width=400" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamimbmali-a21908541&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
-### 📈 **Detailed Contribution Overview**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamimbmali-a21908541&theme=github_dark" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tamimbmali-a21908541&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </div>
 
 <br/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-## 🏆 **GitHub Trophies & Achievements**
+## 💭 Random Dev Quote
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=tamimbmali-a21908541&theme=algolia&no-frame=true&no-bg=false&margin-w=5&margin-h=5&column=7&row=2" width="98%" alt="Trophies"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 <br/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-## 💭 **Daily Developer Wisdom**
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
 <br/>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-## 🌐 **Connect With Me**
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/><br/>
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60"/><br/>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60"/><br/>
-<a href="https://twitter.com/your-profile">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/><br/>
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
+### ⚡ "From teaching equations to engineering solutions" ⚡
 
-<br/>
+**Made with ❤️ and lots of ☕**
 
-### 📬 **Open to Opportunities & Collaborations**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Freelance-Available-brightgreen?style=for-the-badge" alt="Freelance"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Mentorship-Offering-orange?style=for-the-badge" alt="Mentorship"/>
-</p>
-
-<br/>
-
-### 💬 **Let's Build Something Amazing Together!**
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+<sub>© 2024 Tamim Bmali • Built with passion and precision</sub>
 
 </div>
 
 <br/>
 
----
-
-<div align="center">
-
-### ⚡ *"Turning complex problems into elegant solutions, one commit at a time"* ⚡
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br/><br/>
-
-**Made with** <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Heart" width="20" /> **and lots of** ☕
-
-<br/>
-
-<sub>© 2024 Tamim Bmali • Full-Stack Developer • Former Mathematics Teacher</sub>
-
-<br/><br/>
-
-### 🌟 **If you like my work, consider giving it a star!** ⭐
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>

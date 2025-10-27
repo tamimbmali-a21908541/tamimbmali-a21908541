@@ -61,7 +61,7 @@ One-click insights
 
 ```python
 developer = {
-    "name": "Tamim Bmali",
+    "name": "Tamim B.M.Ali",
     "role": "Full-Stack Engineer",
     "background": "Mathematics Teacher",
     "current_focus": [

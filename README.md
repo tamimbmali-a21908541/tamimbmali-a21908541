@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Tamim%20Bmali&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Tamim%20B.M.Ali&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
 <h3>Full-Stack Developer | ML Enthusiast | Former Mathematics Teacher</h3>
 

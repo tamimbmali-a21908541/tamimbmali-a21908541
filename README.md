@@ -85,7 +85,7 @@ developer = {
 - 📱 Developing mobile & web applications
 - 🌱 Learning ML and distributed systems
 - 👯 Open to collaborate on education tech
-- 💬 Ask me about Django & API security
+- 💬 Ask me about AI
 - ⚡ Former mathematics teacher
 
 </td>

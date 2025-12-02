@@ -17,7 +17,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tamimbmali-a21908541&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tamimbmali-a21908541?label=Followers&style=flat&color=6C63FF" alt="Followers" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/tamimbmali-a21908541?tab=followers">
+    <img src="https://img.shields.io/github/followers/tamimbmali-a21908541?label=Follow%20Me&style=social" alt="Follow"/>
+  </a>
+  <a href="https://github.com/tamimbmali-a21908541">
+    <img src="https://img.shields.io/badge/Follow-@tamimbmali--a21908541-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
 </p>
 
 ---
@@ -207,6 +215,18 @@ A powerful, **enterprise-grade analytics platform** that's completely free and p
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
-<p align="center">
-  <sub>⭐ Star my repos if you find them useful! ⭐</sub>
-</p>
+<div align="center">
+
+### 🤝 Let's Build Together!
+
+<p>If you like my work, consider following me to stay updated with my latest projects!</p>
+
+<a href="https://github.com/tamimbmali-a21908541">
+  <img src="https://img.shields.io/badge/⭐_Follow_@tamimbmali--a21908541-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+</a>
+
+<br/><br/>
+
+<sub>⭐ Star my repos if you find them useful! ⭐</sub>
+
+</div>

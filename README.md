@@ -260,37 +260,6 @@ Technologies Used:
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</picture>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tamimbmali-a21908541&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamimbmali-a21908541&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies"/>
-</div>
-
----
-
 ## 📜 Certifications
 
 <div align="center">

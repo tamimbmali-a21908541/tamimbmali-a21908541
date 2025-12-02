@@ -1,388 +1,191 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header"/>
 
-<!-- Matrix-style Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=TAMIM%20MOHAMED%20ALI&fontSize=45&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%3E_%20Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=16"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tamim+Mohamed+Ali;Full-Stack+Developer;Data+Analyst;ML+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
-<!-- Terminal Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami;%3E+Security-focused+Full-Stack+Developer;%24+cat+skills.txt;%3E+Python+%7C+Django+%7C+Flutter+%7C+React+%7C+ML" alt="Terminal Typing" />
+<h3 align="center">A passionate developer from Syria 🇸🇾 based in Lisbon, Portugal 🇵🇹</h3>
 
-<!-- Hacker Badges -->
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117" alt="Status"/>
-  <img src="https://img.shields.io/badge/LOCATION-LISBON%2C%20PT-00ff41?style=for-the-badge&labelColor=0d1117" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=tamimbmali-a21908541&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="Visitors"/>
+<p align="center">
+  <a href="mailto:tamimulht@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tamim-bmali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://a21908541.pw.deisi.ulusofona.pt/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+  <a href="https://platform-9bx.pages.dev/"><img src="https://img.shields.io/badge/My_Platform-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
-<!-- Quick Access Terminal -->
-```bash
-┌──[tamim@github]─[~/connect]
-└──╼ $ ./social_links.sh
-```
-
-<p>
-  <a href="mailto:tamimulht@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-00ff41?style=for-the-badge&labelColor=0d1117" alt="Email"/></a>
-  <a href="https://a21908541.pw.deisi.ulusofona.pt/portfolio/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00ff41?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/></a>
-  <a href="https://platform-9bx.pages.dev/"><img src="https://img.shields.io/badge/📊_PLATFORM-00ff41?style=for-the-badge&labelColor=0d1117" alt="Platform"/></a>
-  <a href="https://linkedin.com/in/tamim-bmali"><img src="https://img.shields.io/badge/💼_LINKEDIN-00ff41?style=for-the-badge&labelColor=0d1117" alt="LinkedIn"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamimbmali-a21908541&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tamimbmali-a21908541?label=Followers&style=flat&color=6C63FF" alt="Followers" />
 </p>
 
-</div>
+---
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 👨‍💻 About Me
+
+- 🎓 Studying **Computer Engineering** at Lusófona University
+- 💼 Working as **Mathematics & Digital Systems Mentor**
+- 🌱 Currently learning **Machine Learning & AI**
+- 🔐 Building **GDPR-compliant secure systems**
+- 📐 Background: **Former Mathematics Teacher**
+- 🌍 Languages: **Arabic** (Native), **English** (Fluent), **Portuguese** (Professional)
+- 📫 Reach me at **tamimulht@gmail.com**
+- ⚡ Fun fact: *From teaching equations to engineering solutions!*
+
+<br clear="both"/>
 
 ---
 
-## `> cat /etc/profile`
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-╔══════════════════════════════════════════════════════════════════╗
-║                    SYSTEM PROFILE: TAMIM                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  STATUS: Active Developer | Security Enthusiast                  ║
-║  UPTIME: 2+ years in production                                  ║
-║  KERNEL: Computer Engineering @ Lusófona University              ║
-╚══════════════════════════════════════════════════════════════════╝
-"""
-
-class Developer:
-    def __init__(self):
-        self.name = "Tamim Mohamed Ali"
-        self.role = "Data Analyst & Full-Stack Developer"
-        self.location = "Lisbon, Portugal 🇵🇹"
-        self.languages_spoken = ["Arabic 🇸🇾", "English 🇬🇧", "Portuguese 🇵🇹"]
-        
-        self.current_mission = [
-            "🔐 Building GDPR-compliant secure systems",
-            "🤖 Exploring Machine Learning & AI",
-            "🌐 Developing multilingual applications",
-            "📊 Creating data visualization tools"
-        ]
-        
-        self.background = "Mathematics Teacher → Software Engineer"
-        
-    def get_daily_routine(self):
-        return "while(alive): eat() -> code() -> sleep() -> repeat()"
-
-if __name__ == "__main__":
-    me = Developer()
-    print(f"[+] Initializing {me.name}...")
-    print(f"[+] Status: {me.role}")
-    print(f"[✓] System Ready.")
-```
-
----
-
-## `> ./projects --featured`
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║  🎯 ACTIVE PROJECT: FREE ANALYTICS PLATFORM WITH AI                       ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║  Enterprise-grade analytics • Zero cost • 100% Privacy                    ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://platform-9bx.pages.dev/">
-  <img src="https://img.shields.io/badge/▶_EXECUTE_DEMO-00ff41?style=for-the-badge&labelColor=0d1117&logoColor=00ff41" alt="Launch"/>
-</a>
-
-</div>
-
-```bash
-┌──[tamim@github]─[~/projects/analytics-platform]
-└──╼ $ cat features.log
-
-[2024-12-02 00:00:01] [INFO] Loading modules...
-[+] MODULE: AI_Insights ................ LOADED ✓
-[+] MODULE: ML_Predictions ............. LOADED ✓
-[+] MODULE: Privacy_First .............. LOADED ✓
-[+] MODULE: Interactive_Dashboard ...... LOADED ✓
-[+] MODULE: Excel_CSV_Parser ........... LOADED ✓
-
-[✓] All systems operational.
-[!] Note: Everything runs locally in browser. No data leaves your machine.
-
-TECH_STACK = ["JavaScript (ES6+)", "React.js", "Machine Learning", "Data Viz"]
-```
-
----
-
-<details>
-<summary><h3>📂 <code>ls -la ~/projects/</code> (Click to Expand)</h3></summary>
-
-<br/>
-
-```bash
-┌──[tamim@github]─[~/projects]
-└──╼ $ ls -la
-
-total 6 projects
-drwxr-xr-x  tamim  4096  Dec 02  .
-drwxr-xr-x  tamim  4096  Dec 02  ..
--rwxr-xr-x  tamim  2048  Dec 02  university_platform/
--rwxr-xr-x  tamim  1024  Dec 02  power_invoice/
--rwxr-xr-x  tamim  1536  Dec 02  sns_hospitals/
--rwxr-xr-x  tamim  1024  Dec 02  android_task_manager/
--rwxr-xr-x  tamim  512   Dec 02  scooter_system/
--rwxr-xr-x  tamim  512   Dec 02  vaccine_logistics/
-```
+### 🚀 Featured Project
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🎓 `./university_platform`
-```yaml
-Type: Student Portfolio System
-Status: DEPLOYED ✓
-Demo: a21908541.pw.deisi.ulusofona.pt
-```
-- `[✓]` Django + React Full-Stack
-- `[✓]` Secure Auth & RBAC
-- `[✓]` Multilingual (AR/EN/PT)
-- `[✓]` GDPR Compliant
+#### 📊 Free Analytics Platform with AI Insights
 
-[![Demo](https://img.shields.io/badge/OPEN-00ff41?style=flat-square&labelColor=0d1117)](https://a21908541.pw.deisi.ulusofona.pt/portfolio/)
+A powerful, **enterprise-grade analytics platform** that's completely free and privacy-focused.
 
-</td>
-<td width="50%">
+**✨ Key Features:**
+- 🤖 AI-powered insights in seconds
+- 📈 Built-in ML predictions & clustering
+- 🔒 100% private - runs locally in browser
+- ⚡ Interactive pivot tables & filtering
+- 📁 Supports Excel & CSV files
 
-### 💰 `./power_invoice`
-```yaml
-Type: Cross-Platform Invoice App
-Status: RELEASED ✓
-Platform: Android/iOS
-```
-- `[✓]` Payment Tracking
-- `[✓]` Arabic Support
-- `[✓]` PDF Generation
-- `[✓]` Firebase Sync
+**🛠️ Built with:** `JavaScript` `React` `Machine Learning`
 
-[![APK](https://img.shields.io/badge/DOWNLOAD-00ff41?style=flat-square&labelColor=0d1117)](https://docs.google.com/uc?export=download&id=1CxJglW_UvpBflfsuvPe2ceqJWN-pj5qx)
+<a href="https://platform-9bx.pages.dev/">
+  <img src="https://img.shields.io/badge/🚀_Try_Live_Demo-6C63FF?style=for-the-badge" alt="Demo"/>
+</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="40%">
 
-### 🏥 `./sns_hospitals`
-```yaml
-Type: Healthcare Management
-Status: COMPLETED ✓
-Mode: Offline-First
-```
-- `[✓]` Cross-Platform Mobile
-- `[✓]` Offline Sync
-- `[✓]` Interactive Maps
-- `[✓]` Real-time Data
-
-`Flutter` `SQLite` `REST APIs`
-
-</td>
-<td width="50%">
-
-### 📱 `./android_task_manager`
-```yaml
-Type: Modern Android App
-Status: COMPLETED ✓
-Language: Kotlin
-```
-- `[✓]` Cloud Sync
-- `[✓]` Background Services
-- `[✓]` Material Design
-- `[✓]` API Integration
-
-`Kotlin` `Android SDK` `Room DB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛴 `./scooter_system`
-```yaml
-Type: Urban Mobility System
-Status: COMPLETED ✓
-Language: C
-```
-- `[✓]` Scooter Registration
-- `[✓]` User Management
-- `[✓]` Rental Tracking
-- `[✓]` Location Monitor
-
-`C` `Data Structures` `File I/O`
-
-</td>
-<td width="50%">
-
-### 💉 `./vaccine_logistics`
-```yaml
-Type: Distribution System
-Status: COMPLETED ✓
-Tool: Advanced Excel
-```
-- `[✓]` Inventory Tracking
-- `[✓]` Prediction Models
-- `[✓]` Distribution Optimization
-- `[✓]` Real-time Monitor
-
-`Excel` `VBA` `Data Analysis`
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="100%" alt="Analytics"/>
 
 </td>
 </tr>
 </table>
 
-</details>
-
 ---
 
-## `> neofetch --tech-stack`
-
-```
-                                        tamim@developer
-  ████████╗███████╗ ██████╗██╗  ██╗     ---------------
-  ╚══██╔══╝██╔════╝██╔════╝██║  ██║     OS: Full-Stack Developer
-     ██║   █████╗  ██║     ███████║     Host: Lisbon, Portugal
-     ██║   ██╔══╝  ██║     ██╔══██║     Kernel: Computer Engineering
-     ██║   ███████╗╚██████╗██║  ██║     Uptime: 2+ years
-     ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝     Shell: bash/zsh
-                                        Terminal: VSCode + Vim
-```
+### 💼 Other Projects
 
 <div align="center">
 
-### `[LANGUAGES]`
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=00ff41)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00ff41)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00ff41)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00ff41)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=00ff41)
-
-### `[FRAMEWORKS]`
-
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00ff41)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00ff41)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=00ff41)
-![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=00ff41)
-
-### `[DATABASES]`
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff41)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff41)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff41)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00ff41)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00ff41)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00ff41)
-
-### `[CLOUD & DEVOPS]`
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00ff41)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00ff41)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
-
-### `[DATA SCIENCE]`
-
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00ff41)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ff41)
-![Scikit](https://img.shields.io/badge/Scikit-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00ff41)
-![Excel](https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=00ff41)
-
-### `[SECURITY]`
-
-![GDPR](https://img.shields.io/badge/GDPR-0d1117?style=for-the-badge&logoColor=00ff41)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-0d1117?style=for-the-badge&logo=oauth&logoColor=00ff41)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00ff41)
-![Encryption](https://img.shields.io/badge/Encryption-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=00ff41)
+| Project | Description | Tech Stack | Link |
+|:-------:|:------------|:-----------|:----:|
+| 🎓 **University Platform** | Student portfolio system with secure auth & RBAC | Django, React, PostgreSQL | [Demo](https://a21908541.pw.deisi.ulusofona.pt/portfolio/) |
+| 💰 **PowerInvoice** | Cross-platform invoice app with Arabic support | Flutter, Firebase, Dart | [Download](https://docs.google.com/uc?export=download&id=1CxJglW_UvpBflfsuvPe2ceqJWN-pj5qx) |
+| 🏥 **SNS Hospitals** | Healthcare app with offline sync & maps | Flutter, SQLite, REST APIs | Private |
+| 📱 **Task Manager** | Modern Android app with cloud sync | Kotlin, Android SDK | Private |
+| 🛴 **Scooter System** | Urban mobility management system | C, Data Structures | Private |
+| 💉 **Vaccine Logistics** | Distribution & prediction system | Excel, VBA | Private |
 
 </div>
 
 ---
 
-## `> cat /var/log/certifications.log`
-
-```bash
-┌──[tamim@github]─[~/certifications]
-└──╼ $ cat verified_certs.log
-
-[2024] ══════════════════════════════════════════════════════════════
-│
-├─► [GOOGLE] Crash Course on Python ........................ VERIFIED ✓
-├─► [MICROSOFT] Advanced Excel for Data Analysis ........... VERIFIED ✓
-├─► [MICROSOFT] C# Programming ............................. VERIFIED ✓
-├─► [JETBRAINS] Kotlin for Android Developers .............. VERIFIED ✓
-├─► [GOOGLE] Foundations: Data, Data, Everywhere ........... VERIFIED ✓
-├─► [GOOGLE] Prepare Data for Exploration .................. VERIFIED ✓
-└─► [GOOGLE] Google Sheets - Advanced Topics ............... VERIFIED ✓
-
-[STATUS] All certifications validated successfully.
-```
-
----
-
-## `> locale -a`
-
-```bash
-┌──[tamim@github]─[~/languages]
-└──╼ $ ./check_languages.sh
-
-Scanning available language packs...
-
-[████████████████████████] 100%  ar_SY.UTF-8  (Arabic)     → NATIVE
-[████████████████████░░░░]  83%  en_US.UTF-8  (English)    → FLUENT
-[██████████████░░░░░░░░░░]  66%  pt_PT.UTF-8  (Portuguese) → PROFESSIONAL
-
-Total: 3 language(s) installed and configured.
-```
-
----
-
-## `> ./connect.sh`
+### 🛠️ Tech Stack
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                      ESTABLISH CONNECTION                            ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  Scanning available channels...                                      ║
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%                      ║
-║  [✓] 4 secure channels found                                        ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+#### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+---
+
+### 📜 Certifications
+
+<div align="center">
+
+| | Certification | Provider |
+|:-:|:-------------|:--------:|
+| 🐍 | Crash Course on Python | Google |
+| 📊 | Advanced Excel for Data Analysis | Microsoft |
+| 💜 | C# Programming | Microsoft |
+| 📱 | Kotlin for Android Developers | JetBrains |
+| 📈 | Foundations: Data, Data, Everywhere | Google |
+| 🔍 | Prepare Data for Exploration | Google |
+| 📗 | Google Sheets - Advanced Topics | Google |
+
+</div>
+
+---
+
+### 🌍 Languages I Speak
+
+<div align="center">
+
+| Language | Proficiency |
+|:--------:|:-----------:|
+| 🇸🇾 Arabic | Native |
+| 🇬🇧 English | Fluent |
+| 🇵🇹 Portuguese | Professional |
+
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
 
 <a href="mailto:tamimulht@gmail.com">
-  <img src="https://img.shields.io/badge/📧_tamimulht@gmail.com-0d1117?style=for-the-badge&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Email-tamimulht%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/tamim-bmali">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Tamim%20BMali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://a21908541.pw.deisi.ulusofona.pt/portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00ff41"/>
-</a>
-<a href="https://platform-9bx.pages.dev/">
-  <img src="https://img.shields.io/badge/📊_Analytics-0d1117?style=for-the-badge&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-```
-📍 Location: Lisbon, Portugal
-🌐 Status: Available for Remote Work
-⏰ Timezone: WET/WEST (UTC+0/+1)
-```
+**📍 Lisbon, Portugal** • **🌐 Available for Remote Work**
 
 </div>
 
@@ -390,35 +193,20 @@ Total: 3 language(s) installed and configured.
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   "From teaching equations to engineering solutions"                 │
-│                                                                      │
-│   while(true) {                                                      │
-│       learn();                                                       │
-│       build();                                                       │
-│       share();                                                       │
-│   }                                                                  │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+### 💭 Quote
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=%24+exit;Connection+closed.+See+you+next+time!;%24+_" alt="Exit" />
+*"From teaching equations to engineering solutions"*
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
-<div align="center">
-<sub>
-  
-```bash
-$ echo "Made with mass 0x4C6F7665 by Tamim" | base64 -d
-# Built by Tamim Mohamed Ali | © 2024
-```
-
-</sub>
-</div>
+<p align="center">
+  <sub>⭐ Star my repos if you find them useful! ⭐</sub>
+</p>

@@ -264,17 +264,21 @@ Technologies Used:
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamimbmali-a21908541&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimbmali-a21908541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimbmali-a21908541&theme=transparent&hide_border=true&stroke=667eea&ring=764ba2&fire=667eea&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=555555" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamimbmali-a21908541&custom_title=Contribution%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+  <img src="https://streak-stats.demolab.com?user=tamimbmali-a21908541&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -282,33 +286,8 @@ Technologies Used:
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamimbmali-a21908541&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tamimbmali-a21908541&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies"/>
 </div>
-
----
-
-## 💼 Professional Journey
-
-```mermaid
-timeline
-    title Career Timeline
-    2009-2012 : 📐 Mathematics Teacher
-              : Aleppo, Syria
-    2013-2014 : 💉 Logistics Officer
-              : Vaccine Distribution
-              : Together To End Polio
-    2014-2015 : 📋 Documentation Officer
-              : Regional Hospital
-              : Medical Records Management
-    2022-Now : 📐 Freelance Math Teacher
-             : Lisbon, Portugal
-    2024-Now : 👨‍🏫 University Mentor
-             : Lusófona University
-             : CS & Digital Systems
-    2026 : 🎓 Expected Graduation
-         : Computer Engineering
-         : Thesis: Secure Data Systems
-```
 
 ---
 
@@ -380,13 +359,6 @@ timeline
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---

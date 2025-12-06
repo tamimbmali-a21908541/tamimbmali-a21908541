@@ -34,7 +34,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying **Computer Engineering** at Lusófona University
+- 🎓 Studying **Computer Engineering** at Lusófona University (3)
 - 💼 Working as **Mathematics & Digital Systems Mentor**
 - 🌱 Currently learning **Machine Learning & AI**
 - 🔐 Building **GDPR-compliant secure systems**
